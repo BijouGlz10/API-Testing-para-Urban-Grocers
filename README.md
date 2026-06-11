@@ -1,5 +1,5 @@
 ## API Testing – Urban Grocers App  
-**Sprint 3**
+**Sprint 4**
 
 ### Objetivo  
 Probar la nueva versión de la API conforme a los requerimientos definidos por el equipo de desarrollo backend, después de la incorporación de nuevas funcionalidades.
